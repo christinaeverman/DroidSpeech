@@ -3,12 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/vikram/Documents/Development/Libraries/Vikram/DroidSpeech/ds/build/intermediates/bundles/default/classes.jar"
+        jar="C:\Users\Christina\Documents\GitHub\DroidSpeechFork\DroidSpeech\ds\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.2"
-        sha1="8c944dcfe2540a78b0b425ad04a1f6d52a344132">
-        <dex dex="/Users/vikram/Documents/Development/Libraries/Vikram/DroidSpeech/app/build/intermediates/pre-dexed/debug/classes_ee5f584984ea285ca9391947e69ea58414084f18.jar" />
+        sha1="f0a6f17057b94386b94b1ed9986df6a67b188b7a">
+        <dex dex="C:\Users\Christina\Documents\GitHub\DroidSpeechFork\DroidSpeech\app\build\intermediates\pre-dexed\debug\classes_c7c067ade7a33b3c231e33bdfc57eb9cace68920.jar" />
     </item>
 
 </items>
